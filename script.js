@@ -1,0 +1,1 @@
+console.log("Video Editor Agent frontend loaded.");
