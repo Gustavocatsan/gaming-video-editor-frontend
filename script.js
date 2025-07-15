@@ -1,4 +1,4 @@
-fetch("http://localhost:5000/")
+fetch("https://gaming-video-editor-backend.onrender.com/")
   .then(response => response.text())
   .then(data => {
     const div = document.createElement("div");
